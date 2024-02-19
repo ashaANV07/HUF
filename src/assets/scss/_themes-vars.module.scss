@@ -1,0 +1,18 @@
+$white: #fff;
+
+// secondary
+$secondaryLight: #ede7f6;
+$secondaryMain: #0E3935;
+$secondaryDark: #082926;
+$secondary200: #b39ddb;
+$secondary800: #4527a0;
+
+:export {
+    white: $white;
+    // secondary
+  secondaryLight: $secondaryLight;
+  secondary200: $secondary200;
+  secondaryMain: $secondaryMain;
+  secondaryDark: $secondaryDark;
+  secondary800: $secondary800;
+}
