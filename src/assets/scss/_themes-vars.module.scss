@@ -2,10 +2,13 @@ $white: #fff;
 
 // secondary
 $secondaryLight: #ede7f6;
-$secondaryMain: #0E3935;
-$secondaryDark: #082926;
+$secondaryMain: #008c76;
+$secondaryDark: #006455;
 $secondary200: #b39ddb;
 $secondary800: #4527a0;
+
+$active: #DAE7E6;
+
 
 :export {
     white: $white;
@@ -15,4 +18,5 @@ $secondary800: #4527a0;
   secondaryMain: $secondaryMain;
   secondaryDark: $secondaryDark;
   secondary800: $secondary800;
+  active: $active;
 }
